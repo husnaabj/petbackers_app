@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Petbackers</string>
+    <string name="Petbackers">Petbackers</string>
+
+    <string name="service1">Basic Grooming</string>
+    <string name="service2">Lions Cut Grooming</string>
+    <string name="service3">Cat Boarding</string>
+    <string name="search">Search...</string>
+
+</resources>

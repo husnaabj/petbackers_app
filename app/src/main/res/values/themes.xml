@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Petbackers752025" parent="android:Theme.Material.Light.NoActionBar" />
+
+
+    <style name="App.Theme.Petbackers752025" parent="Theme.Petbackers752025" />
+    <style name="Theme.App.Petbackers752025" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/pinkbg</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_logo_inset</item>
+        <item name="postSplashScreenTheme">@style/App.Theme.Petbackers752025</item>
+    </style>
+</resources>

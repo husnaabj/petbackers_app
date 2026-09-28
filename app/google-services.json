@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "702969437791",
+    "firebase_url": "https://petbackersapp-default-rtdb.firebaseio.com",
+    "project_id": "petbackersapp",
+    "storage_bucket": "petbackersapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702969437791:android:581e7ff977af005ceb45ea",
+        "android_client_info": {
+          "package_name": "com.example.petbackers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQyzL3sX4FYZ2yKbiDMEXCrco1eE6b5Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
